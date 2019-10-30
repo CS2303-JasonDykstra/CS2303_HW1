@@ -1,0 +1,3 @@
+int getNumberOfRooms();
+
+int getNewRoom();

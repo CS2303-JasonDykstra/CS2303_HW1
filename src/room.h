@@ -1,0 +1,4 @@
+int haveTreasure();
+
+
+int open();
